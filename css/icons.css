@@ -1,0 +1,67 @@
+.icon-home {
+	display: block;
+	background-image: url(../images/icons/basic/icon-home.png);
+	width: 25px;
+	height: 22px;
+}
+.icon-user {
+	display: block;
+	background-image: url(../images/icons/basic/icon-user.png);
+	width: 17px;
+	height: 16px;
+}
+.icon-phone {
+	display: block;
+	background-image: url(../images/icons/basic/icon-phone.png);
+	width: 13px;
+	height: 17px;
+}
+.icon-wallet {
+	display: block;
+	background-image: url(../images/icons/basic/icon-wallet.png);
+	width: 28px;
+	height: 27px;
+}
+.icon-calendar {
+	display: block;
+	background-image: url(../images/icons/basic/icon-calendar.png);
+	width: 33px;
+	height: 33px;
+}
+.icon-payment {
+	display: block;
+	background-image: url(../images/icons/basic/icon-payment.png);
+	width: 38px;
+	height: 29px;
+}
+.icon-round {
+	width: 28px;
+	height: 28px;
+	border-radius: 14px;
+	background-color: #246e95;
+	font-family: "UbuntuBold";
+	color: #FFF;
+	font-size: 18px;
+	font-style: normal;
+	display: block;
+	text-align: center;
+	line-height: 26px;
+}
+.icon-doc {
+	display: block;
+	background-image: url(../images/icons/basic/icon-doc.png);
+	width: 30px;
+	height: 39px;
+}
+.icon-timer {
+	display: block;
+	background-image: url(../images/icons/basic/icon-timer.png);
+	width: 33px;
+	height: 38px;
+}
+.icon-money {
+	display: block;
+	background-image: url(../images/icons/basic/icon-money.png);
+	width: 34px;
+	height: 38px;
+}
